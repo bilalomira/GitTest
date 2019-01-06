@@ -10,6 +10,7 @@ int main()
 
 	//New branch
 
+	// two commit
 	system("pause");
 	return 0;
 }
